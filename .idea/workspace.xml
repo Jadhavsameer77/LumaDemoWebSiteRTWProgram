@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="Adding Purchasing Class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/megento/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/megento/Core.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/megento/PurchasingItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/megento/PurchasingItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/megento_testdata.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/megento_testdata.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/megento/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/megento/Core.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/megento_testdata.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/megento_testdata.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +45,28 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml">
+  <component name="RunManager" selected="TestNG.PurchasingItems">
     <configuration name="C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LumaDemoWebSiteRTWProgram" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchasingItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LumaDemoWebSiteRTWProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.megento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.megento" />
+      <option name="MAIN_CLASS_NAME" value="org.megento.PurchasingItems" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -71,16 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt; (4)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RTWAssignmentTestNG" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RTWAssignmentTestNG" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PurchasingItems" />
         <item itemvalue="TestNG.C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml" />
         <item itemvalue="TestNG.&lt;default&gt; (2)" />
         <item itemvalue="TestNG.&lt;default&gt; (1)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
-        <item itemvalue="TestNG.&lt;default&gt; (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +122,21 @@
       <option name="presentableId" value="Default" />
       <updated>1673424846409</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Purchasing Class">
+      <created>1673594368033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673594368033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding Purchasing Class">
+      <created>1673594526436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673594526437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Purchasing Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Purchasing Class" />
   </component>
 </project>

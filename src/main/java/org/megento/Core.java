@@ -4,9 +4,7 @@ package org.megento;
 import io.qameta.allure.Allure;
 import lombok.Getter;
 import lombok.extern.java.Log;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
@@ -67,6 +65,13 @@ public class Core {
 
     }
 
+    public void actionHover(WebElement element)
+    {
+        log.info("Performing moveOver Action on :: "+element.getText());
+        Actions ac = new Actions(driver);
+        ac.moveToElement(element).build().perform();
+    }
+
     public WebElement getElement(String xpath)
     {
         WebElement element = driver.findElement(By.xpath(xpath));
@@ -85,5 +90,33 @@ public class Core {
     public void validatingString(String expected, String actual) {
         Assert.assertEquals(actual,expected);
         log.info("Actual Value :: "+actual+" ,Expected Value :: "+expected);
+    }
+
+    public void scrollingWindowToBottom()
+    {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollBy(0,document.body.scrollHeight)");
+    }
+
+    public void scrollingWindowToUp()
+    {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollBy(0,0)");
+    }
+
+    public void scrollTillElement(WebElement element)
+    {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].scrollIntoView();", element);
+    }
+
+    public void hardWait(Long val)throws Exception
+    {
+        Thread.sleep(val);
+    }
+
+    public void openInNewTab(WebElement element)
+    {
+        element.sendKeys(Keys.chord(Keys.CONTROL ,Keys.ENTER));
     }
 }
