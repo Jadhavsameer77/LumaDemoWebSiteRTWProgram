@@ -5,101 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BBDAssignmentBatch8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/src/test/java/com/rtw/FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/src/test/java/com/rtw/YahooLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/src/test/java/com/rtw/raw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RTWAssignmentChecking/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Default suite/Default test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Default suite/Default test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC Chrome Browsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC Chrome Browsers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC Chrome Browsers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC Chrome Browsers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC firefox Browsers.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC firefox Browsers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC firefox Browsers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC firefox Browsers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/Myntra TC.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/QA Techhub TC.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/QA Techhub TC.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/QA Techhub TC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/QA Techhub TC.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite Different Locators.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite Different Locators.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite Different Locators.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite Different Locators.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite TC.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite TC.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite TC.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/YahooWebsite TC.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/Suite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.MyntraCartMultipleBrowserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.MyntraCartMultipleBrowserTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.MyntraCartTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.MyntraCartTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.QATechHubWebsiteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.QATechHubWebsiteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.YahooWebsiteDifferentLocatorsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.YahooWebsiteDifferentLocatorsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.YahooWebsiteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/junitreports/TEST-AssignmentFramework.TestCases.YahooWebsiteTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Default suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-reports2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentFramework/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/BBDScenario1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/BBDScenario3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/BBDSenario2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/BBDSenario5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/MyntraShopping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -125,15 +31,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/SAMEER/LumaDemoWebSiteRTWProgram",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt; (2)">
+}]]></component>
+  <component name="RunManager" selected="TestNG.C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml">
+    <configuration name="C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LumaDemoWebSiteRTWProgram" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RTWAssignmentTestNG" />
       <option name="PACKAGE_NAME" value="" />
@@ -145,16 +62,6 @@
       </method>
     </configuration>
     <configuration name="&lt;default&gt; (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RTWAssignmentTestNG" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt; (3)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RTWAssignmentTestNG" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
@@ -186,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml" />
         <item itemvalue="TestNG.&lt;default&gt; (2)" />
         <item itemvalue="TestNG.&lt;default&gt; (1)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.&lt;default&gt; (4)" />
-        <item itemvalue="TestNG.&lt;default&gt; (3)" />
       </list>
     </recent_temporary>
   </component>

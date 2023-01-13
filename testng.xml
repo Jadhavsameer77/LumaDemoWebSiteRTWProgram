@@ -3,13 +3,13 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/SAMEER/New folder (2)/BBDAssignments/RTWAssignmentTestNG">
         <classes>
-            <!--<class name="org.megento.Registration">
+            <class name="org.megento.Registration">
                 <methods>
                     <include name="navigateToSite"/>
                     <include name="registration"/>
                     <include name="closingBrowser"/>
                 </methods>
-            </class>-->
+            </class>
             <class name="org.megento.Signin">
             <methods>
                 <include name="openBrowser"/>
