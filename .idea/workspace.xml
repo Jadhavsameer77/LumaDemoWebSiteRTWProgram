@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="Adding Purchasing Class">
+    <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="Updating Script in Purchasing Item Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/megento/Core.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/megento/Core.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/megento/PurchasingItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/megento/PurchasingItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/megento_testdata.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/megento_testdata.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/megento/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/megento/Core.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/megento_testdata.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/megento_testdata.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/SAMEER/LumaDemoWebSiteRTWProgram",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SAMEER/LumaDemoWebSiteRTWProgram&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.PurchasingItems">
     <configuration name="C:/SAMEER/LumaDemoWebSiteRTWProgram/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LumaDemoWebSiteRTWProgram" />
@@ -136,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673594526437</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updating Script in Purchasing Item Class">
+      <created>1673607028506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673607028506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Purchasing Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Purchasing Class" />
+    <MESSAGE value="Updating Script in Purchasing Item Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Script in Purchasing Item Class" />
   </component>
 </project>

@@ -11,6 +11,8 @@ import org.testng.Assert;
 
 
 import java.time.Duration;
+import java.util.Iterator;
+import java.util.Set;
 
 @Getter
 @Log
@@ -18,7 +20,8 @@ public class Core {
 
     WebDriver driver;
 
-
+    private String parent;
+    private String child;
 
     public Core(WebDriver driver)
     {
@@ -118,5 +121,13 @@ public class Core {
     public void openInNewTab(WebElement element)
     {
         element.sendKeys(Keys.chord(Keys.CONTROL ,Keys.ENTER));
+    }
+
+    public void winHandle()
+    {
+        Set<String> windowsHandleIDs = driver.getWindowHandles();
+        Iterator<String> itr = windowsHandleIDs.iterator();
+        this.parent = itr.next();
+        this.child = itr.next();
     }
 }

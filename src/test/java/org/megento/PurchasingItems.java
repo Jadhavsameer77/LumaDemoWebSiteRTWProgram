@@ -56,15 +56,57 @@ public class PurchasingItems {
         co.scrollTillElement(element);
         co.click(conf.getValues("Product1"));
         co.hardWait(3000l);
+        co.click(conf.getValues("sizeOfProduct1"));
+        co.hardWait(3000l);
+        co.click(conf.getValues("colorOfProduct1"));
+        co.hardWait(3000l);
+        co.click(conf.getValues("addToCartProduct1"));
+        co.hardWait(3000l);
+        String msg = co.getText(conf.getValues("product1Validation"));
+        co.validatingString("shopping cart",msg);
+        co.hardWait(3000l);
         element = co.getElement(conf.getValues("Gear"));
         co.actionClick(element);
         co.hardWait(3000l);
         element = co.getElement(conf.getValues("Watches"));
         co.openInNewTab(element);
         co.hardWait(5000l);
+        System.out.println(driver.getTitle());
+        co.winHandle();
+        driver.switchTo().window(co.getChild());
+        System.out.println(driver.getTitle());
+        /*co.hardWait(5000l);
+        element = co.getElement("filterPrice");
+        co.actionClick(element);
+        element = co.getElement("priceBracket");
+        co.actionClick(element);
+        co.hardWait(3000l);*/
     }
 
     @Test(priority = 4)
+    public void addingCartProduct2() throws Exception {
+        co.winHandle();
+        driver.switchTo().window(co.getChild());
+        co.hardWait(5000l);
+        element = co.getElement(conf.getValues("filterPrice"));
+        co.actionClick(element);
+        element = co.getElement(conf.getValues("priceBracket"));
+        co.actionClick(element);
+        co.hardWait(3000l);
+        element = co.getElement(conf.getValues("material"));
+        co.actionClick(element);
+        element = co.getElement(conf.getValues("materialRubber"));
+        co.actionClick(element);
+        co.hardWait(3000l);
+        co.click(conf.getValues("watch"));
+        co.click(conf.getValues("addToCartProduct2"));
+        co.hardWait(3000l);
+        driver.close();
+        driver.switchTo().window(co.getParent());
+        co.hardWait(5000l);
+    }
+
+    @Test(priority = 5)
     public void clossingSession()
     {
         co.teardown();
