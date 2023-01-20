@@ -1,20 +1,24 @@
 package org.megento;
 
-import io.qameta.allure.Allure;
+import io.qameta.allure.*;
 import lombok.Value;
 import lombok.extern.java.Log;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import org.utilities.Configuration;
+import org.utilities.ScreenshotUtil;
 
+import java.net.URL;
 
+@Feature("Login user in webpage")
 @Log
-public class Signin {
+public class Signin{
     WebDriver driver;
     Core co = new Core(driver);
     WebElement element;
     Configuration conf = new Configuration();
+    ScreenshotUtil sc = new ScreenshotUtil();
 
 
 
@@ -27,6 +31,7 @@ public class Signin {
         Allure.step("User Navigate to the url :: "+conf.getValues("url"));
     }
 
+    @Description("User signin in portal with valid url")
     @Test(priority = 2)
     public void signin() throws Exception
     {
@@ -53,6 +58,8 @@ public class Signin {
         Allure.step("Adding Invalid Email Format");
         Thread.sleep(5000);
         String text = co.getText(conf.getValues("EmailValidation"));
+        element = co.getElement(conf.getValues("EmailValidation"));
+        sc.takeSnap(driver,element);
         co.validatingString(conf.getValues("EmailErrMsg"), text);
         Allure.label("Validating String :: "+conf.getValues("EmailErrMsg"),"www.google.co.in?q=invalidMail");
     }
@@ -67,6 +74,8 @@ public class Signin {
         Allure.step("Passing Invalid Email Id");
         Thread.sleep(5000);
         String text = co.getText(conf.getValues("HeaderErr"));
+        element = co.getElement(conf.getValues("HeaderErr"));
+        sc.takeSnap(driver,element);
         co.validatingString(conf.getValues("HeaderErrMsg"), text);
         Allure.label("Validating String :: "+conf.getValues("EmailErrMsg"),"www.google.co.in?q=invalidMail");
     }
