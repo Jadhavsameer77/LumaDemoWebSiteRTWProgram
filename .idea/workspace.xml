@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="ScreenShot Added Classes">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/utilities/ScreenshotUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/utilities/ScreenshotUtil.java" afterDir="false" />
+    <list default="true" id="88f27352-3fdc-45f6-baec-67f2b0318f77" name="Changes" comment="Change name of screenshot">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/megento/PurchasingItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/megento/PurchasingItems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674225062394</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Change name of screenshot">
+      <created>1674225165963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674225165963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +193,7 @@
     <MESSAGE value="Adding Product into cart for product1 and product 2" />
     <MESSAGE value="Windows handling update" />
     <MESSAGE value="ScreenShot Added Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ScreenShot Added Classes" />
+    <MESSAGE value="Change name of screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change name of screenshot" />
   </component>
 </project>

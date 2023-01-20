@@ -52,6 +52,7 @@ public class PurchasingItems {
         sc.takeSnap(driver,element);
         co.hardWait(4000l);
         co.scrollTillElement(element);
+        sc.takeSnap(driver,element);
         co.click(conf.getValues("WhatsNew"));
         Allure.step("User Accessing Whats New Tab");
         co.hardWait(3000l);
